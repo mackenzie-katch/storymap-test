@@ -473,10 +473,18 @@
   content: "\e64e";
 }
 .vco-icon-chevron-right:after {
-  content: "\e64f";
+  font-family: 'avenir';
+  speak: none;
+  font-style: normal;
+  font-weight: 500;
+  content: "\203a";
 }
 .vco-icon-chevron-left:after {
-  content: "\e650";
+  font-family: 'avenir';
+  speak: none;
+  font-style: normal;
+  font-weight: 500;
+  content: "\2039";
 }
 .vco-icon-youtube-logo:after {
   content: "\e651";
@@ -1316,7 +1324,11 @@
   margin-left: 76px;
 }
 .vco-slidenav-next .vco-slidenav-icon:before {
-  content: "\e64f";
+  font-family: 'avenir';
+  speak: none;
+  font-style: normal;
+  font-weight: 500;
+  content: "\203a";
 }
 .vco-slidenav-next:hover .vco-slidenav-icon {
   margin-left: 80px;
@@ -1329,7 +1341,11 @@
   margin-left: 0px;
 }
 .vco-slidenav-previous .vco-slidenav-icon:before {
-  content: "\e650";
+  font-family: 'avenir';
+  speak: none;
+  font-style: normal;
+  font-weight: 500;
+  content: "\2039";
 }
 .vco-slidenav-previous:hover .vco-slidenav-icon {
   margin-left: -4px;
