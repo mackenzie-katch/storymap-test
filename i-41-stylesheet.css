@@ -1,6 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
 
+@charset "UTF-8";
+/* CSS Document */
+
 
 /* Includes
 ================================================== */
@@ -242,7 +245,7 @@
   vertical-align: top;
 }
 .vco-storymap {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Arial, sans-serif;
 }
 .vco-storymap h1,
 .vco-storymap h2,
@@ -360,7 +363,7 @@
 }
 .vco-storymap blockquote cite,
 .vco-storymap blockquote p cite {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Arial, sans-serif;
   font-size: 11px;
   color: #666666;
   display: block;
@@ -394,7 +397,7 @@
   margin: 0;
 }
 .vco-storymap .vcard {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Arial, sans-serif;
   font-size: 15px;
   line-height: 15px;
 }
@@ -408,7 +411,7 @@
 }
 .vco-storymap .vco-note {
   display: block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Arial, sans-serif;
   font-style: italic;
   background-color: #e6e6e6;
   font-size: 15px;
@@ -470,7 +473,7 @@
   content: "\e64e";
 }
 .vco-icon-chevron-right:after {
-  content: "\e64f";
+  background: url('/_images/navslide-icon-before.svg');
 }
 .vco-icon-chevron-left:after {
   content: "\e650";
@@ -1773,7 +1776,7 @@
 }
 .vco-text .vco-headline-date,
 .vco-text h3.vco-headline-date {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Arial, sans-serif;
   font-size: 15px;
   line-height: 15px;
   font-weight: normal;
@@ -1789,7 +1792,7 @@
 }
 .vco-text .vco-text-date {
   display: inline-block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Arial, sans-serif;
   font-weight: normal;
   margin-top: 10px;
   font-size: 12px;
@@ -2879,7 +2882,7 @@
 }
 .vco-storymap .vco-media-instagram-likes {
   display: inline-block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Arial, sans-serif;
   font-weight: bold;
   margin-top: 10px;
   font-size: 12px;
@@ -2902,7 +2905,7 @@
 }
 .vco-storymap .vco-snapmap-user-description,
 .vco-storymap .vco-snapmap-user-location {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Arial, sans-serif;
   display: block;
 }
 .vco-storymap .vco-snapmap-instagram-text {
@@ -2918,7 +2921,7 @@
 .vco-storymap .vco-snapmap-instagram-text .vco-snapmap-instagram-website,
 .vco-storymap .vco-snapmap-instagram-text .vco-snapmap-instagram-website a {
   display: inline-block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Arial, sans-serif;
   font-weight: bold;
   margin-top: 10px;
   font-size: 12px;
@@ -2962,7 +2965,7 @@
 }
 .vco-storymap .vco-snapmap-flickr-views {
   display: block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Arial, sans-serif;
   font-weight: bold;
   margin-top: 10px;
   font-size: 12px;
