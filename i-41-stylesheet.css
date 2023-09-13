@@ -1316,7 +1316,7 @@
   margin-left: 76px;
 }
 .vco-slidenav-next .vco-slidenav-icon:before {
-  content: "\e64f";
+  background: url('/_images/navslide-icon-before.svg');
 }
 .vco-slidenav-next:hover .vco-slidenav-icon {
   margin-left: 80px;
