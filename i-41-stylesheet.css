@@ -303,7 +303,7 @@
 }
 .vco-storymap p a:hover,
 .vco-storymap p a:focus {
-  color: #c34528;
+  color: #ee2753;
   text-decoration: none;
 }
 @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
@@ -314,7 +314,7 @@
   }
   .vco-storymap p a:hover,
   .vco-storymap p a:focus {
-    color: #c34528;
+    color: #ee2753;
     text-decoration: underline;
   }
 }
@@ -328,7 +328,7 @@
 }
 .vco-storymap a {
   text-decoration: none;
-  color: #c34528;
+  color: #ee2753;
 }
 .vco-storymap a:hover {
   text-decoration: underline;
@@ -737,7 +737,7 @@
   top: -2px;
 }
 .vco-menubar-button:hover {
-  background: #c34528;
+  background: #ee2753;
   color: #FFF;
 }
 .vco-mobile .vco-menubar-button:hover {
@@ -745,7 +745,7 @@
   color: #737373;
 }
 .vco-mobile .vco-menubar-button:active {
-  background: #c34528;
+  background: #ee2753;
   color: #FFF;
 }
 @keyframes invertToBlack {
@@ -923,7 +923,7 @@
 }
 .vco-slide .vco-slide-calltoaction .vco-slide-calltoaction-button-text {
   display: inline-block;
-  background-color: #c34528;
+  background-color: #ee2753;
   color: #FFF;
   padding: 10px 15px 10px 15px;
   border-radius: 7px;
@@ -1654,7 +1654,7 @@
 }
 .vcard a:hover .fn,
 .vcard a:hover .nickname {
-  color: #c34528;
+  color: #ee2753;
 }
 .vcard .fn,
 .vcard .nickname {
@@ -2533,7 +2533,7 @@
 }
 .vco-map .leaflet-container .leaflet-control-attribution .vco-knightlab-brand span,
 .vco-map .leaflet-container .leaflet-control-attribution a.vco-knightlab-brand span {
-  color: #c34528;
+  color: #ee2753;
   display: inline-block;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
@@ -2780,7 +2780,7 @@
   color: #a5a5a5;
 }
 .vco-map .vco-mapmarker-active {
-  color: #c34528;
+  color: #ee2753;
 }
 .vco-map .vco-mapmarker-image-icon,
 .vco-map .vco-mapmarker-image-icon-active {
@@ -2795,7 +2795,7 @@
 }
 .vco-map .vco-mapmarker-image-icon-active {
   opacity: 1;
-  border: 4px solid #c34528;
+  border: 4px solid #ee2753;
   -webkit-filter: grayscale(0);
   -moz-filter: grayscale(0);
   filter: grayscale(0);
@@ -2854,7 +2854,7 @@
   height: 100%;
   overflow: hidden;
   top: 0px;
-  background-color: #333;
+  background-color: #ee2753;
 }
 .vco-map .vco-map-mask {
   width: 100%;
