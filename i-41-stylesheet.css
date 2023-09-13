@@ -1452,9 +1452,9 @@
 ================================================== */
 .vco-layout-landscape .vco-storyslider .vco-slidenav-next .vco-slidenav-icon:before,
 .vco-layout-landscape .vco-storyslider .vco-slidenav-previous .vco-slidenav-icon:before {
-  background-color: #333;
+  background-color: #EE2753;
   padding: 20px;
-  border: 1px solid #b3b3b3;
+  border: 1px solid #fff;
 }
 .vco-layout-landscape .vco-storyslider .vco-slidenav-next .vco-slidenav-icon,
 .vco-layout-landscape .vco-storyslider .vco-slidenav-previous .vco-slidenav-icon,
