@@ -1279,7 +1279,7 @@
 .vco-slidenav-next .vco-slidenav-content-container.vco-slidenav-inverted .vco-slidenav-description,
 .vco-slidenav-previous .vco-slidenav-content-container.vco-slidenav-inverted .vco-slidenav-description {
   color: #ee2753;
-  text-shadow: 1px 1px 1px #ee2753;
+  text-shadow: 1px 1px 1px #fff;
 }
 .vco-slidenav-next .vco-slidenav-icon,
 .vco-slidenav-previous .vco-slidenav-icon {
@@ -1364,7 +1364,7 @@
 .vco-skinny .vco-slidenav-next .vco-slidenav-content-container .vco-slidenav-title,
 .vco-skinny .vco-slidenav-previous .vco-slidenav-content-container .vco-slidenav-description,
 .vco-skinny .vco-slidenav-next .vco-slidenav-content-container .vco-slidenav-description {
-  color: #ee2753;
+  color: #1A3A52;
 }
 .vco-skinny .vco-slidenav-previous .vco-slidenav-content-container.vco-slidenav-inverted .vco-slidenav-icon,
 .vco-skinny .vco-slidenav-next .vco-slidenav-content-container.vco-slidenav-inverted .vco-slidenav-icon,
