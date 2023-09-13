@@ -448,8 +448,8 @@
 ================================================== */
 @font-face {
   font-family: 'vco-icons';
-  src: url(../css/icons/vco-icons.eot);
-  src: url(../css/icons/vco-icons.eot?#iefix) format('embedded-opentype'), url(../css/icons/vco-icons.ttf) format('truetype'), url(../css/icons/vco-icons.woff2) format('woff2'), url(../css/icons/vco-icons.woff) format('woff'), url(../css/icons/vco-icons.svg#vco-icons) format('svg');
+  src: url('https://github.com/NUKnightLab/StoryMapJS/blob/master/compiled/icons/vco-icons.ttf');
+  src: url('https://github.com/NUKnightLab/StoryMapJS/blob/master/compiled/icons/vco-icons.ttf?#iefix') format('embedded-opentype'), url('https://github.com/NUKnightLab/StoryMapJS/blob/master/compiled/icons/vco-icons.ttf') format('truetype'), url(../css/icons/vco-icons.woff2) format('woff2'), url('https://github.com/NUKnightLab/StoryMapJS/blob/master/compiled/icons/vco-icons.woff') format('woff'), url(../css/icons/vco-icons.svg#vco-icons) format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -473,7 +473,7 @@
   content: "\e64e";
 }
 .vco-icon-chevron-right:after {
-  background: url('/_images/navslide-icon-before.svg');
+  content: "\e64f";
 }
 .vco-icon-chevron-left:after {
   content: "\e650";
@@ -1316,7 +1316,7 @@
   margin-left: 76px;
 }
 .vco-slidenav-next .vco-slidenav-icon:before {
-  background: url('/_images/navslide-icon-before.svg');
+  content: "\e64f";
 }
 .vco-slidenav-next:hover .vco-slidenav-icon {
   margin-left: 80px;
