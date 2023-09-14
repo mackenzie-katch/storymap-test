@@ -16,3 +16,23 @@ window.onresize = function(event) {
     storymap.updateDisplay(); // this isn't automatic
 }
 </script>
+
+<!-- in page settings code -->
+<!-- Mapbox with CMS markers -->
+<script>
+    // Replace with your own Mapbox access token
+    mapboxgl.accessToken = 'pk.eyJ1IjoiZGV2b3JtYXBzIiwiYSI6ImNsN3FqMnowYTA1ZTUzbm12dXk3dWR0dGoifQ.mJBt7snqZSbKh3F0Jpcssg';
+
+
+      const map = new mapboxgl.Map({
+        container: 'map',
+        // You can change the style url below with your own style from Mapbox
+        style: 'mapbox://styles/devormaps/clesnxlxj000b01lpd9kfv7lf',
+        center: [-88.46637725830078, 44.28699443765375],
+        zoom: 10.85
+      });
+
+
+    // Call the function to initialize the map
+    initializeMap();
+  </script>
