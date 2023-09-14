@@ -3,7 +3,7 @@
 
 /* Includes
 ================================================== */
-/* VARIABLES
+/*	VARIABLES
 ----------------------------------------------------- */
 /* TYPEFACE
 ================================================== */
@@ -40,7 +40,11 @@
 		Based on: http://github.com/necolas/normalize.css
 	------------------------------------------------------------------------------------------- */
 }
-
+.vco-storyjs div * {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
 .vco-storyjs h1,
 .vco-storyjs h2,
 .vco-storyjs h3,
@@ -468,16 +472,14 @@
   font-family: 'avenir';
   speak: none;
   font-style: normal;
-  font-weight: 700;
-  font-size: 36;
+  font-weight: 500;
   content: "\203a";
 }
 .vco-icon-chevron-left:after {
   font-family: 'avenir';
   speak: none;
   font-style: normal;
-  font-weight: 700;
-  font-size: 36;
+  font-weight: 'heavy';
   content: "\2039";
 }
 .vco-icon-youtube-logo:after {
