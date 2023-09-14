@@ -40,6 +40,30 @@
 		Based on: http://github.com/necolas/normalize.css
 	------------------------------------------------------------------------------------------- */
 }
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: 300;
+  font-style: normal;
+  src: local('Avenir Book'), local('Avenir-300'),
+    url('/_assets/Avenir-Medium/Avenir-Book.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: 500;
+  font-style: normal;
+  src: local('Avenir Medium'), local('Avenir-500'),
+    url('/_assets/Avenir-Medium/Avenir-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: 700;
+  font-style: normal;
+  src: local('Avenir Heavy'), local('Avenir-700'),
+    url('/_assets/Avenir-Medium/Avenir-Heavy.ttf') format('truetype');
+}
 .vco-storyjs div * {
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
@@ -472,14 +496,15 @@
   font-family: 'avenir';
   speak: none;
   font-style: normal;
-  font-weight: 500;
+  font-weight: 700;
+  font-size: 36px;
   content: "\203a";
 }
 .vco-icon-chevron-left:after {
   font-family: 'avenir';
   speak: none;
   font-style: normal;
-  font-weight: 'heavy';
+  font-weight: 700;
   content: "\2039";
 }
 .vco-icon-youtube-logo:after {
