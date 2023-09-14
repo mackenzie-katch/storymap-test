@@ -272,6 +272,7 @@
 .vco-storymap h3 {
   font-size: 36px;
   line-height: 36px;
+  font-weight: 700;
 }
 .vco-storymap h1 small,
 .vco-storymap h2 small,
@@ -1315,17 +1316,19 @@
 }
 .vco-slidenav-next .vco-slidenav-icon,
 .vco-slidenav-previous .vco-slidenav-icon {
-  font-family: 'vco-icons';
+  font-family: 'avenir';
   speak: none;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 700;
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  font-size: 32px;
+  font-size: 40px;
   margin-bottom: 5px;
+}
+
+.vco-slidenav-next .vco-slidenav-icon {
+	padding: 10px;
 }
 .vco-slidenav-next:hover .vco-slidenav-title,
 .vco-slidenav-previous:hover .vco-slidenav-title,
