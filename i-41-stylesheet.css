@@ -7,7 +7,7 @@
 
 /* Includes
 ================================================== */
-/*	VARIABLES
+/* VARIABLES
 ----------------------------------------------------- */
 /* TYPEFACE
 ================================================== */
@@ -246,12 +246,14 @@
 }
 .vco-storymap {
   font-family: "Avenir", Arial, sans-serif;
+  src: url('https://github.com/NUKnightLab/StoryMapJS/blob/master/compiled/icons/vco-icons.ttf');
 }
 .vco-storymap h1,
 .vco-storymap h2,
 .vco-storymap h3 {
   font-size: 36px;
   line-height: 36px;
+  font-weight: 
 }
 .vco-storymap h1 small,
 .vco-storymap h2 small,
