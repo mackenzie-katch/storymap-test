@@ -3023,13 +3023,14 @@
   height: 100%;
   font-size: 16px;
   line-height: normal;
-  overflow: hidden;
+  overflow: visible;
   position: relative;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
   -o-user-select: none;
   user-select: none;
+  margin-bottom: 10px;
 }
 .vco-storymap *,
 .vco-storymap *::before,
